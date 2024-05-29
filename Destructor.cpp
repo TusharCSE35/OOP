@@ -1,4 +1,4 @@
-// Constructor Overloading
+// Destructor
 //-------------------------------
 
 #include<bits/stdc++.h>
